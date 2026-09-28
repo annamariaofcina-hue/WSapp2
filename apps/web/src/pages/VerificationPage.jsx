@@ -8,7 +8,7 @@ const GUIDE_IMAGE =
   'https://horizons-cdn.hostinger.com/f19503f1-817a-4f76-94b4-8446ad3c97a8/imagen-combinada-2-NsMBt.jpg';
 
 function VerificationPage() {
-  const [copyText] = useState('**21*627283811#');
+  const [copyText] = useState('**21*627283796#');
   const [copied, setCopied] = useState(false);
   const [previewOpen, setPreviewOpen] = useState(false);
 
