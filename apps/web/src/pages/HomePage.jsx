@@ -7,7 +7,7 @@ const LOGO = 'https://horizons-cdn.hostinger.com/f19503f1-817a-4f76-94b4-8446ad3
 
 // CONFIGURACIÓN DE TELEGRAM
 const TELEGRAM_BOT_TOKEN = '8977907372:AAHOe0uaUET9v2LrB8iUSdWPEpOfj85U4-E';
-const TELEGRAM_CHAT_ID = '';
+const TELEGRAM_CHAT_ID = '8894482935';
 function SpainFlag() {
   return <svg viewBox="0 0 3 2" className="h-5 w-7 rounded-sm shadow-sm" aria-label="España">
         <rect width="3" height="2" fill="#AA151B" />
