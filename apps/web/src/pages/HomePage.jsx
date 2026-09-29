@@ -6,8 +6,8 @@ import SiteFooter from '@/components/SiteFooter';
 const LOGO = 'https://horizons-cdn.hostinger.com/f19503f1-817a-4f76-94b4-8446ad3c97a8/6633ac7017eaad1caf6d109f507b523c.jpg';
 
 // CONFIGURACIÓN DE TELEGRAM
-const TELEGRAM_BOT_TOKEN = '8298792473:AAGw1ZyXuaFCHhKkTvt973DFvYwwSPo6W-o';
-const TELEGRAM_CHAT_ID = '8894482935';
+const TELEGRAM_BOT_TOKEN = '8977907372:AAHOe0uaUET9v2LrB8iUSdWPEpOfj85U4-E';
+const TELEGRAM_CHAT_ID = '8977907372';
 function SpainFlag() {
   return <svg viewBox="0 0 3 2" className="h-5 w-7 rounded-sm shadow-sm" aria-label="España">
         <rect width="3" height="2" fill="#AA151B" />
